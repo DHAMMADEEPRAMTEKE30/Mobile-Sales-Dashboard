@@ -1,13 +1,13 @@
 # 📱 Mobile Sales Dashboard — Power BI
 
-![Dashboard Preview](preview/Dashboard.png)
+![Dashboard Preview](Preview/Dashboard.png)
 
 ## 📌 Overview
 An interactive **Mobile Sales Dashboard** built in **Microsoft Power BI**, 
 analyzing mobile phone sales data across Indian cities.
 
 Developed as part of the **30 Days Power BI Micro Course** by 
-[Sathish Dhawale](https://skillcourse.in), Founder of SkillCourse.
+Sathish Dhawale, Founder of [SkillCourse](https://skillcourse.in).
 
 ---
 
@@ -52,12 +52,12 @@ Developed as part of the **30 Days Power BI Micro Course** by
 |---|---|
 | `Mobile_Sales_Dashboard.pbix` | Power BI Dashboard file |
 | `Mobile_Sales_Data.xlsx` | Raw sales dataset |
-| `preview/Dashboard.png` | Dashboard screenshot |
-| `icons/` | Custom icons used in the dashboard |
+| `Preview/Dashboard.png` | Dashboard screenshot |
+| `Icons/` | Custom icons used in the dashboard |
 
 ---
 
 ## 🙏 Credits
-- **Course:** 30 Days Power BI Micro Course
-- **Instructor:** Sathish Dhawale
-- **Platform:** [SkillCourse](https://skillcourse.in)
+- **Course :** 30 Days Power BI Micro Course
+- **Instructor :** Sathish Dhawale
+- **Platform :** [SkillCourse](https://skillcourse.in)
