@@ -7,7 +7,7 @@ An interactive **Mobile Sales Dashboard** built in **Microsoft Power BI**,
 analyzing mobile phone sales data across Indian cities.
 
 Developed as part of the **30 Days Power BI Micro Course** by 
-Sathish Dhawale, Founder of [SkillCourse](https://skillcourse.in).
+[Sathish Dhawale](https://www.linkedin.com/in/satish-dhawale/), Founder of [SkillCourse](https://skillcourse.in).
 
 ---
 
